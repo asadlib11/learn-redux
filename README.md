@@ -1,3 +1,5 @@
+This project is a basic tutorial that describes the basic implementation of redux for state management in your react js web application. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
